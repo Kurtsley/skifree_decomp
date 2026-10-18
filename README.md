@@ -38,3 +38,6 @@ Progress
 - [x] Convert data to C
 - [ ] Make sure all functions exactly match with the original binary
 - [ ] Make sure data segments match the original exactly
+
+## Tracking
+- _randomActorType3: https://decomp.me/scratch/DeJrx MATCHING
