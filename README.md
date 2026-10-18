@@ -41,3 +41,4 @@ Progress
 
 ## Tracking
 - _randomActorType3: https://decomp.me/scratch/DeJrx MATCHING
+- _timerUpdateFunc: https://decomp.me/scratch/FsP70 MATCHING
